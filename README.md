@@ -1,5 +1,5 @@
 ## Olá eu sou o Wesley rodrigues!
- ### Atualmente cursando Full stack na DIO
+ ### Formado em Full stack na DIO
 
 <div align="center">
   <a href="https://github.com/programadorwes">
